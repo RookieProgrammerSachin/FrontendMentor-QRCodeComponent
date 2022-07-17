@@ -51,9 +51,9 @@ p{
     border-radius: 10px;
 }
 .attribution { 
-    /* margin-top: 8%;  */
+    margin: auto;
+    width: 100%;
     position: absolute;
-    left: 38%;
     bottom: 10px;
     font-size: 11px; 
     text-align: center; 
